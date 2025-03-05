@@ -3,6 +3,8 @@
   margin: 0 auto;
   padding: 1rem;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
   background-image: linear-gradient(to bottom right, red, yellow);
 }
 .dress{
@@ -10,5 +12,5 @@
   height: 400px;
 }
 .card-body{
-  background-color: red;
+  background-color: rgb(247, 26, 26);
 }
